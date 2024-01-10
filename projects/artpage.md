@@ -14,6 +14,6 @@ summary: "Instagram page showcasing my artwork that i've done over the years and
 
 Link to my instagram art page : [Carlo Viloria (cvilart_) on Instagram](https://www.instagram.com/cvilart_/)
 
-This instagram project is a separate page that showcases art that i've drawn over the years. The goal of this page is to reach out to other creators, graphic designers, concept artists, or any of the fine arts media to collaborate with other artists or people interested in my work. Most of my work is inspired from video games where I interpret characters from my perspective that is then drawn and visualized through various forms of media. My main editing software and art done digitally is done through Photoshop.
+This instagram project serves as a dedicated platform highlighting a collection of my artistic creations spanning several years. The primary objective of this page is to not only share my creations, but to hopefully establish connections with fellow creators, including graphic designers, concept artists, and individuals within the fine arts community, creating collaborative opportunities and engaging those intrigued by my artistic vision. The majority of my creations draw inspiration from the realm of video games, where I offer my unique interpretation of characters through diverse media forms. Notably, my digital artwork is edited and created using Photoshop.
 
-It is still a work in progress and i'm hoping to expand into more of graphic design and creating assets for other designers to use for their websites, etc.
+While this page is under development, I aspire to extend its scope to encompass graphic design, producing assets that can be utilized by other designers for various purposes, such as website development, game development, etc,.
