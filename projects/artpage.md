@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/136386185_432689721201535_7080316621360622435_n-2.jpeg
+image: img/136386185_432689721201535_7080316621360622435_n.jpeg
 title: "Artpage"
 date: 2024-01-10
 published: true
