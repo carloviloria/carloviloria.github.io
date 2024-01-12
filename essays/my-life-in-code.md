@@ -9,8 +9,6 @@ labels:
   - Computer Science
 ---
 
-# My Life in Code
-
 <div style ="text-align:center">
   <img src="../img/37925950.jpg" alt="Brain Image" style="width:300px; height:300px;">
 </div>
