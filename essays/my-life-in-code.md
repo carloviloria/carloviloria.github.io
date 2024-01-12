@@ -11,10 +11,8 @@ labels:
 
 # My Life in Code
 
-<img width="200px" class="rounded float-start pe-4" src="../img/37925950.jpg">
-
 <div style ="text-align:center">
-  <img src="../img/37925950.jpg" alt="Brain Image">
+  <img src="../img/37925950.jpg" alt="Brain Image" style="width:300px; height:300px;">
 </div>
 
 This essay is a brief overview of why I chose computer science as my major, and things that I have accomplished or am trying to accomplish during my college career.
