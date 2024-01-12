@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Technical Essay"
+title: "My Life in Code"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-10
 published: true
