@@ -38,7 +38,7 @@ public class Greeting { // Done in Java
 }
 ```
 
-In both cases, you can see the use of curly braces to define the scope of the function 'greet' and the block of code inside the 'if' statement which is one of many syntactic similarities between JavaScript and Java. This also holds true for C and C++ as well, lagnuages that I have used previously in other classes.
+In both cases, you can see the use of curly braces to define the scope of the function 'greet' and the block of code inside the 'if' statement which is one of many syntactic similarities between JavaScript and Java. This also holds true for C and C++ as well, languages that I have used previously in other classes.
 
 As I got further into the freecodecamp course on JavaScript, it became increaisngly difficult. A major weakness that I have is the use of for loops, while loops, and do while loops, which they had a lot of. Of course with a new language, the struggle was also using loops in a new environment. With the overall knowledge that I've gained from the 113 questions from the introduction to JavaScript, it was a good transition into the challenging part that is ES6. It became a lot more technical and required you to think a lot harder which was very stress-inducing but rewarding once you got the question down.
 
