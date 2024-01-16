@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mcicon.jpg
+image: img/minecraft.png
 title: "Minecraft House Project"
 date: 2024-01-15
 published: true
