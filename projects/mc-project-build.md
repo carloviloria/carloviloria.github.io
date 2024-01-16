@@ -15,3 +15,4 @@ labels:
 summary: "A compilation and process of a Minecraft build I have worked on recently."
 ---
 
+<img class="img-fluid" src="../img/vacay/mcbuild2.png">
