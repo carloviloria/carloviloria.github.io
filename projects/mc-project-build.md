@@ -15,4 +15,11 @@ labels:
 summary: "A compilation and process of a Minecraft build I have worked on recently."
 ---
 
-<img class="img-fluid" src="../img/vacay/mcbuild2.png">
+<p align="center">
+  <img class="img-fluid" src="../img/mcbuild2.png" alt="Preview Image">
+</p>
+
+<p align="center">Preview Image of the finished product.</p>
+
+[Imgur link of the process step by step](https://imgur.com/a/lqVq54w)
+
