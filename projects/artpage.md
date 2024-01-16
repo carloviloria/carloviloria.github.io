@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/136386185_432689721201535_7080316621360622435_n.jpeg
-title: "Artpage of the yung visionary"
+title: "Artpage of a Yung Visionary"
 date: 2024-01-10
 published: true
 labels:
