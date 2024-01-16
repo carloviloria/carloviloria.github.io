@@ -19,7 +19,5 @@ summary: "A compilation and process of a Minecraft build I have worked on recent
   <img class="img-fluid" src="../img/mcbuild2.png" alt="Preview Image">
 </p>
 
-<p align="center">Preview Image of the finished product.</p>
-
-[Imgur link of the process step by step](https://imgur.com/a/lqVq54w)
+## <p align ="center">[Imgur link of the process step by step](https://imgur.com/a/lqVq54w)</p>
 
