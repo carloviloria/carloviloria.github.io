@@ -26,7 +26,7 @@ labels:
   out why game developers use x or y into building their fantasy world.
 
   In the future, the skills and experiences I hope to develop in the future is to learn about the process of developing these games, and the languages that are most commonly used as well.
-  There are a myriad of skills that I want to develop and as each semester goes by, my goal is to master those skills to become a well rounded developer. My biggest inspiration that I like
+  There are a myriad of skills that I want to develop and as each semester goes by, my goal is to master those skills to become a well-rounded developer. My biggest inspiration that I like
   to draw on from time to time is RIOT games who developed League of Legends, Valorant, and Teamfight tactics, all games that I love playing. I've been challenging myself to think of what
   algorithms they use to develop the mechanics in their games in hopes that I would be able to do that myself. Before I graduate, I hope that I have the languages and skillsets needed to
   live my dreams.
