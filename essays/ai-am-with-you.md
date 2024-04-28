@@ -55,16 +55,13 @@ Artificial Intelligence (AI) has had a significant impact on the way we learn po
 - A recent example of what coding examples I have asked for was for testCafe tests for the final project. I have asked Copilot to give me an introductory example of how to write a testCafe test for our group web application.
 ```javascript
 test('Test that user can view the marketplace page after sign in', async (testController) => {
-
-  // Sign in
+  
   await navBar.gotoSignInPage(testController);
   await signinPage.signin(testController, credentials.username, credentials.password);
   await navBar.isLoggedIn(testController, credentials.username);
-
-  // Navigate to view collection page
+  
   await marketplacePage.isDisplayed(testController);
-
-  // Sign out
+  
   await navBar.logout(testController);
   await signoutPage.isDisplayed(testController);
 });
