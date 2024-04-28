@@ -53,21 +53,21 @@ Artificial Intelligence (AI) has had a significant impact on the way we learn po
 9. Coding example
 - For coding examples, I have used AI numerous of times to explain code that I did not understand. I would ask Copilot to help me explain the code and provide comments on what each line does. This goes for ICS classes outside 314 as well. Recently, I have found it really hard to pay attention to reading the books as the text can be overwhelming and long so asking AI to summarize it while providing code snippets saves time and effort. 
 - A recent example of what coding examples I have asked for was for testCafe tests for the final project. I have asked Copilot to give me an introductory example of how to write a testCafe test for our group web application. 
-- This is what it looked like
+- This is what it looked like:
 ```javascript
 test('Test that user can view the marketplace page after sign in', async (testController) => {
 
-// Sign in
-await navBar.gotoSignInPage(testController);
-await signinPage.signin(testController, credentials.username, credentials.password);
-await navBar.isLoggedIn(testController, credentials.username);
+  // Sign in
+  await navBar.gotoSignInPage(testController);
+  await signinPage.signin(testController, credentials.username, credentials.password);
+  await navBar.isLoggedIn(testController, credentials.username);
 
-// Navigate to view collection page
-await marketplacePage.isDisplayed(testController);
+  // Navigate to view collection page
+  await marketplacePage.isDisplayed(testController);
 
-// Sign out
-await navBar.logout(testController);
-await signoutPage.isDisplayed(testController);
+  // Sign out
+  await navBar.logout(testController);
+  await signoutPage.isDisplayed(testController);
 
 });
 ```
