@@ -104,17 +104,17 @@ My personal experiences with AI tools in class have been a hit or miss. I favor 
 
 It is scary how helpful AI can be in our work. As the years go by the model by then would probably be at a point where it would literally do everything for us, probably when GPT-5 starts to become available to the public. By then, I wonder how the use of AI will impact the generations to come. Will it be a good thing or a bad thing? Only time will tell.
 
-As for its practicality outside of class, AI has been used for many types of media such as art and music. For example, people have been using AI to propagate false information, create deepfakes, and even create fake news. On tiktok, there are videos of people using AI to create covers of songs in their favorite artists voice. In software engineering outside of class, I am not aware of any AI tools that are used in the industry.
+As for its practicality outside of class, AI has been used for many types of media such as art and music. For example, people have been using AI to propagate false information, create deepfakes, and even create fake news. On TikTok, there are videos of people using AI to create covers of songs in their favorite artists voice. In software engineering outside of class, I am not aware of any AI tools that are used in the industry.
 
 ## Limitations and Challenges AI've faced
 
-Within the course, challenges and limitations that I have faced were mainly during the JavaScript WODs where the code was not working as intended. I would ask Copilot how to specifically orient things to look like the Morning Brew example image and it would give me a code snippet that would not exactly fit the specifications needed. They would get the picture but not the whole picture. I would have to make minor adjustments to the code to make it work as intended.
+Within the course, challenges and limitations that I have faced were mainly during the JavaScript WODs where the code was not working as intended. I would ask Copilot how to specifically orient things to look like the Morning Brew example image, and it would give me a code snippet that would not exactly fit the specifications needed. They would get the picture but not the whole picture. I would have to make minor adjustments to the code to make it work as intended.
 
 <div style="float:right; margin-left:20px;">
   <img src="../img/ai4.jpeg" alt="Computer Soup" style="width:300px; height:150px;">
 </div>
 
-A suggestion I would have for further integration into the usage of AI in the course would be having a AI bot with the GPT-3 model in the main ICS 314 site where it can ask if you have any questions or concerns regarding the course. I think it would be a fun and engaging integration as it can get overwhelming sometimes trying to find everything you need to know about the course and the content.
+A suggestion I would have for further integration into the usage of AI in the course would be having an AI bot with the GPT-3 model in the main ICS 314 site where it can ask if you have any questions or concerns regarding the course. I think it would be a fun and engaging integration as it can get overwhelming sometimes trying to find everything you need to know about the course and the content. Another suggestion would be that my other ICS professors have done is how to ask the right questions to ChatGPT or Copilot, so it gives you the right answers while it being beneficial to your learning. This would be a great way to help students learn without looking at the answers directly.
 
 ## Comparative Analysis
 
