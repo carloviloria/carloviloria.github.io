@@ -56,17 +56,18 @@ Artificial Intelligence (AI) has had a significant impact on the way we learn po
 - This is what it looked like:
 ```javascript
 test('Test that user can view the marketplace page after sign in', async (testController) => {
-// Sign in
-await navBar.gotoSignInPage(testController);
-await signinPage.signin(testController, credentials.username, credentials.password);
-await navBar.isLoggedIn(testController, credentials.username);
 
-// Navigate to view collection page
-await marketplacePage.isDisplayed(testController);
+  // Sign in
+  await navBar.gotoSignInPage(testController);
+  await signinPage.signin(testController, credentials.username, credentials.password);
+  await navBar.isLoggedIn(testController, credentials.username);
 
-// Sign out
-await navBar.logout(testController);
-await signoutPage.isDisplayed(testController);
+  // Navigate to view collection page
+  await marketplacePage.isDisplayed(testController);
+
+  // Sign out
+  await navBar.logout(testController);
+  await signoutPage.isDisplayed(testController);
 });
 ```
 - In this code snippet, it helped me formulate a testcafe test cafe for our marketplace page in making sure that the page is displayed after the user signs in. I was very doubtful that AI could do this, but it did and on top of that, helped me understand how to write testcafe tests.
