@@ -102,9 +102,13 @@ A suggestion I would have for further integration into the usage of AI in the co
 
 The big difference between traditional learning and AI learning is that AI learning gives you the information you need when you need it. In traditional learning, any questions you have would have to be answered by the professor or your peers and sometimes these answers are not immediate, which AI learning can provide. Traditional learning is good for social interactions and building relationships with your peers and professors which AI cannot provide. The information you get from traditional learning is more reliable and trustworthy than AI learning as AI learning can sometimes give you false information. The most important part about traditional learning that AI cannot take away is that traditional learning helps you build social skills which is important in the workforce and in life.
 
+Personally if I had to choose a preference, traditional learning is the way to go. It teaches you the fundamentals to grow as a well-rounded individual and there's areas where AI cannot teach you that traditional learning can. AI is built off humans and the information we provide it, so it is always safe to go back to the source of where the information came from. It is also easier to pay attention to a human being than a computer screen as it can be more engaging and fun. 
+
 ### VII. Future Considerations:
 
 The future of AI in software engineering is bright. As the years go by, AI will become a lot smarter that it will become unavoidable to use for students. It will become too reliant to the point where educators will have to tie it into their coursework to help students learn and ask questions on it more efficiently. It is hurtful to not mention the usage of AI's to other students as it will be the future of learning. As we get smarter, so will AI. It will be a tool that will help us in our work and in our lives. It will be a tool that will help us learn and grow. It will be a tool that will help us become better people and will be a tool that will help us become better software engineers depending on how we use it.
+
+With that being said, it's over reliance is also a worry for the future. I worry that future students will be overly dependent on it that they will not know how to do things themselves. It will definitely be a challenge for our future generations to stick to traditional learning methods as everything has become very technological as of late. With the emergence of AI, it will be hard for students to keep engaged with their coursework and be serious with their learning when AI is doing everything for them.  
 
 ### VIII. Conclusion:
 
