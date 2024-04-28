@@ -67,8 +67,6 @@ Artificial Intelligence (AI) has had a significant impact on the way we learn po
   await navBar.logout(testController);
   await signoutPage.isDisplayed(testController);
 });
-
-});
 ```
 - In this code snippet, it helped me formulate a testcafe test cafe for our marketplace page in making sure that the page is displayed after the user signs in. I was very doubtful that AI could do this, but it did and on top of that, helped me understand how to write testcafe tests.
 10. Explaining code
