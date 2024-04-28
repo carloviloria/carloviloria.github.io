@@ -15,11 +15,11 @@ labels:
   <img src="../img/ai2.jpeg" alt="Computer Soup" style="width:500px; height:300px;">
 </div>
 
-## AI'm with you
+### I. Introduction
 
 Artificial Intelligence (AI) has had a significant impact on the way we learn positively and negatively. While it has made learning more accessible and efficient, one of the problems I have encountered with AI is that we may be too co-dependent on it. When talking about its place in software engineering, it is scary how helpful it can be. For example, OpenAI's GPT-3 is a language model that can generate human-like text. It can be used to write essays, code, and even poetry. It is a powerful tool that can help us in our work, but it can also be a crutch that we rely on too much.
 
-## Addressing the Usage of AI in these list of topics we learned in class
+### II. Personal Experience with AI:
 
 1. Experience WODs
 - For experience WODs, I have not used any AI tools as experience WODs are beneficial to use without AI. The experience WODs are sufficiently provided with information to help you complete the WODs without the need for AI. Professor Johnson goes through each experience WODs thoroughly to help you understand the concept and the screencast provided helps assist you in completing the WODs.
@@ -68,7 +68,7 @@ Artificial Intelligence (AI) has had a significant impact on the way we learn po
 - Other uses in ICS 314 not listed was using AI to help me on other ICS classes such as ICS 313 where we learn a lot about programming languages. Some of the programming languages there like Haskell and Lojban were very difficult to understand and without AI tools, these would have been very tough and time-consuming to learn as it had very different paradigms from what I am used to compared to this class. I have also used it for my ICS 434 class which is Data Science Fundamentals, and it assisted my greatly on how to use pandas and numpy in Python and how to create good-looking plots in matplotlib.  
 
 
-## AI tools and me
+### III. Impact on Learning and Understanding:
 
 Before class, I have been using ChatGPT as an assistance tool for any debugging issues or questions I have regarding any grammatical or spelling mistakes for other classes. Recently I have been introduced to Github Copilot which is a handy dandy extension that I use in IntelliJ and Visual Studio Code. It functions the same way as ChatGPT but it reads your code better since it's on the same application which does not require you to copy and paste your code. 
 
@@ -80,7 +80,7 @@ It is safe to admit that I have become dependent on these tools. However, I beli
 
 Even now when writing this essay, the image you see above was scaled down using AI to help me find the perfect fit.
 
-## Am AI relevant in and outside of class?
+### IV. Practical Applications:
 
 My personal experiences with AI tools in class have been a hit or miss. I favor copilot more than ChatGPT as ChatGPT will sometimes lose track of the whole picture and rather focuses on one piece of information at a time. Copilot on the other hand remembers most of its knowledge and questions the user has asked previously which is a plus. I have used ChatGPT mainly for grammatical/spelling mistakes and Copilot for coding problems. In what I have used it in class, I have used it mostly for the underscore WODs as underscore was a concept I have not been too familiar with and do not see myself using in the future. I have also been using it for error checking, formatting issues when using style.css, and the final project.
 
@@ -88,7 +88,7 @@ It is scary how helpful AI can be in our work. As the years go by the model by t
 
 As for its practicality outside of class, AI has been used for many types of media such as art and music. For example, people have been using AI to propagate false information, create deepfakes, and even create fake news. On TikTok, there are videos of people using AI to create covers of songs in their favorite artists voice. In software engineering outside of class, I am not aware of any AI tools that are used in the industry.
 
-## Limitations and Challenges AI've faced
+### V. Challenges and Opportunities:
 
 Within the course, challenges and limitations that I have faced were mainly during the JavaScript WODs where the code was not working as intended. I would ask Copilot how to specifically orient things to look like the Morning Brew example image, and it would give me a code snippet that would not exactly fit the specifications needed. They would get the picture but not the whole picture. I would have to make minor adjustments to the code to make it work as intended.
 
@@ -98,15 +98,15 @@ Within the course, challenges and limitations that I have faced were mainly duri
 
 A suggestion I would have for further integration into the usage of AI in the course would be having an AI bot with the GPT-3 model in the main ICS 314 site where it can ask if you have any questions or concerns regarding the course. I think it would be a fun and engaging integration as it can get overwhelming sometimes trying to find everything you need to know about the course and the content. Another suggestion would be that my other ICS professors have done is how to ask the right questions to ChatGPT or Copilot, so it gives you the right answers while it being beneficial to your learning. This would be a great way to help students learn without looking at the answers directly.
 
-## Comparative Analysis
+### VI. Comparative Analysis:
 
 The big difference between traditional learning and AI learning is that AI learning gives you the information you need when you need it. In traditional learning, any questions you have would have to be answered by the professor or your peers and sometimes these answers are not immediate, which AI learning can provide. Traditional learning is good for social interactions and building relationships with your peers and professors which AI cannot provide. The information you get from traditional learning is more reliable and trustworthy than AI learning as AI learning can sometimes give you false information. The most important part about traditional learning that AI cannot take away is that traditional learning helps you build social skills which is important in the workforce and in life.
 
-## The future of AI in Software Engineering
+### VII. Future Considerations:
 
 The future of AI in software engineering is bright. As the years go by, AI will become a lot smarter that it will become unavoidable to use for students. It will become too reliant to the point where educators will have to tie it into their coursework to help students learn and ask questions on it more efficiently. It is hurtful to not mention the usage of AI's to other students as it will be the future of learning. As we get smarter, so will AI. It will be a tool that will help us in our work and in our lives. It will be a tool that will help us learn and grow. It will be a tool that will help us become better people and will be a tool that will help us become better software engineers depending on how we use it.
 
-## Conclusion
+### VIII. Conclusion:
 
 In conclusion, the integration of AI into our learning experiences, particularly in software engineering, presents both opportunities and challenges for our current and future generations. While AI tools like ChatGPT and GitHub Copilot offer immense assistance in coding, debugging, and even writing essays, there's a fine line between using them as aids and become overly dependent. As AI continues to advance, it will undoubtedly play a significant role in education and the industry. However, it's always important to maintain a balance between leveraging AI's capabilities and nurturing traditional learning methods that create social interaction and critical thinking. Ultimately, how we navigate this intersection between human intellect and artificial intelligence will shape the future of software engineering and beyond.
 
