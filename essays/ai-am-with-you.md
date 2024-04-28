@@ -53,12 +53,6 @@ Artificial Intelligence (AI) has had a significant impact on the way we learn po
 9. Coding example
 - For coding examples, I have used AI numerous of times to explain code that I did not understand. I would ask Copilot to help me explain the code and provide comments on what each line does. This goes for ICS classes outside 314 as well. Recently, I have found it really hard to pay attention to reading the books as the text can be overwhelming and long so asking AI to summarize it while providing code snippets saves time and effort. 
 - A recent example of what coding examples I have asked for was for testCafe tests for the final project. I have asked Copilot to give me an introductory example of how to write a testCafe test for our group web application.
-
-<div style ="text-align:center">
-  <img src="../img/testcafe.png" alt="Computer Soup">
-</div>
-
-- In this code snippet, it helped me formulate a testcafe test cafe for our marketplace page in making sure that the page is displayed after the user signs in. I was very doubtful that AI could do this, but it did and on top of that, helped me understand how to write testcafe tests.
 10. Explaining code
 - For explaining code, I have used AI if the concept became too cryptic and overwhelming for me to understand. As mentioned before, if I felt like I was not really getting the gist of the code, I would ask AI to help me explain the code and provide comments in a way that I could understand. Asking ChatGPT to give inline comments is very helpful as you can see what each line does and how it affects the code.
 - Examples questions that are beneficial rather than just giving it to you bluntly that I have asked would be "What does this line of code do?" or you could revamp it to "What does this code do and can you explain each line with inline comments" to help better summarize the code.
