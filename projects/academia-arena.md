@@ -12,11 +12,6 @@ labels:
   - React
 summary: "Web App me and my group made for our ICS314 Project"
 ---
-
-<div style="text-align: center;">
-  <img class="Homepage" src="../img/Homepage.png">
-</div>
-
 <div style="text-align: center;">
   <img class="Landing Page" src="../img/LandingPage2.png">
 </div>
